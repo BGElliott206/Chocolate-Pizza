@@ -1,3 +1,23 @@
+body{
+margin: 5px;
+
+}
+
+
+#header-bar {
+  border: 6px solid black;
+  background-color: rgb(58, 53, 53);
+}
+
+#footer-bar {
+  border: 6px solid black;
+  background-color: rgb(58, 53, 53);
+}
+
 .recipe-instructions {
   text-indent: 40px;
+}
+
+#recipe1 recipe2 {
+  background-image: url("https://raw.githubusercontent.com/codefellows/seattle-201d47/master/class-10/lab-a/lab-assets/list-bg.png");
 }
